@@ -3,6 +3,7 @@
 In this game, the snake must seek the fruits. The snake moves right, left, up and down with the right, left, up and down keys respectively.
 
 By eating each of the objects in the window, the length of the snake's body will increase and the player's score will change as follows:
+
 Pear 2 points
 Apple 1 point
 Poop -1 point
